@@ -1,2 +1,3 @@
 # Study
-Just fo studying
+Just for studying
+New Line
